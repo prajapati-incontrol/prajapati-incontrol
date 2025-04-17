@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on
-    - state and parameter estimation of Distribution Power Grids
+    - State and Parameter Estimation of Distribution Power Grids
     - Graph and Simplicial Complex Neural Networks
     - Optimal Power Flow 
       
