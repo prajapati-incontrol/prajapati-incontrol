@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently working as an Master Thesis Intern at Stedin B.V., which is one of the six Distribution System Operators in the Netherlands accountable for most of the areas in South-Holland and Utrecht provinces.
+I am currently working as a Master Thesis Intern at Stedin B.V., which is one of the six Distribution System Operators in the Netherlands accountable for most of the areas in South-Holland and Utrecht provinces.
 
 
 
