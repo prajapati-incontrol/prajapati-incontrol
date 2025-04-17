@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on
+    - state and parameter estimation of Distribution Power Grids
+    - Graph and Simplicial Complex Neural Networks
+    - Optimal Power Flow 
+      
+      
+- 🌱 I’m currently learning and testing the paradigms of Generative AI, in particular implicit density based methods to solve the observability problems across the MV/LV Power Grids. 
 
-## 🚀 Technologies & Frameworks
+## 🚀 Frameworks
 
 <table>
   <tr>
