@@ -1,14 +1,20 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on
+I am currently working as an Master Thesis Intern at Stedin B.V., which is one of the six Distribution System Operators in the Netherlands accountable for most of the areas in South-Holland and Utrecht provinces.
+
+
+
+- 🔭 Current research directions:
     - State and Parameter Estimation of Distribution Power Grids
     - Graph and Simplicial Complex Neural Networks
     - Optimal Power Flow 
       
       
-- 🌱 I’m currently learning and testing the paradigms of Generative AI, in particular implicit density based methods to solve the observability problems across the MV/LV Power Grids. 
+- 🌱 Future is exciting: I’m learning and testing the paradigms of Generative AI, in particular implicit density based methods to solve the observability problems across the MV/LV Power Grids. 
 
 ## 🚀 Frameworks
+
+Small set, Big Impact.
 
 <table>
   <tr>
