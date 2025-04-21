@@ -25,11 +25,6 @@ Small set, Big Impact.
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" width="48" height="48" alt="PyG" />
       <br>Pytorch Geometric
-    </td>
-      <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/58386951?v=4" width="48" height="48" alt="PyG" />
-      <br>Pytorch Lightning
-    </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
@@ -37,10 +32,6 @@ Small set, Big Impact.
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo_250px.png" width="48" height="48" alt="JAX" />
       <br>JAX
-    </td>
-    <td align="center" width="96">
-      <img src="https://pyomo.readthedocs.io/en/6.8.0/_images/PyomoNewBlue3.png" width="48" height="48" alt="Pyomo" />
-      <br>Pyomo
     </td>
   </tr>
 </table>
