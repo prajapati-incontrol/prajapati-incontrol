@@ -33,6 +33,10 @@ Small set, Big Impact.
       <img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo_250px.png" width="48" height="48" alt="JAX" />
       <br>JAX
     </td>
+      <td align="center" width="96">
+      <img src="https://pyomo.readthedocs.io/en/stable/_images/PyomoNewBlue3.png" width="48" height="48" alt="JAX" />
+      <br>JAX
+    </td>
   </tr>
 </table>
 
