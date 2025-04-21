@@ -35,7 +35,7 @@ Small set, Big Impact.
     </td>
       <td align="center" width="96">
       <img src="https://pyomo.readthedocs.io/en/stable/_images/PyomoNewBlue3.png" width="48" height="48" alt="JAX" />
-      <br>JAX
+      <br>Pyomo
     </td>
   </tr>
 </table>
