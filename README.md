@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Soham Prajapati, currently working as an independent researcher in the domain of power electronics, electrical power grids and machine learning.  
+I am Soham Prajapati, currently working as an independent researcher in the domain of electrical power grids, power electronics and machine learning.  
 
 
 
