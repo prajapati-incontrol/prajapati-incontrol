@@ -3,10 +3,9 @@
 I am Soham Prajapati, currently working as an independent researcher in the domain of electrical power grids, power electronics and machine learning.  
 
 - 🔭 Current research directions:
-    - State and Parameter Estimation of Distribution Power Grids
-    - Graph and Simplicial Complex Neural Networks
-    - Generative ML
-    - Data-driven Control Solutions for Virtual Inertia in Power Grids
+    - Data-driven control solutions for synchroverters
+    - PV Inverters
+    - GaNFETs
   
 ## 🚀 Frameworks
 
